@@ -45,7 +45,7 @@ const VTKComponent = () => {
     // (it will be provided by the launcher)
     const config = {
       application: 'cone',
-      sessionURL: 'ws://192.168.216.60:7500/ws',
+      sessionURL: 'ws://0.0.0.0:7500/ws',
     };
 
     // Connect
